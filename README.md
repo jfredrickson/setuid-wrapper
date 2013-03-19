@@ -9,6 +9,7 @@ privileges.
 
 ## Installing
 
+    chown root setuid-wrapper
     chmod 4755 setuid-wrapper
 
 ## Usage
